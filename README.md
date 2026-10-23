@@ -2,7 +2,7 @@
 
 Enjoy building great software which can scale.
 
-I like turning complex problems into reliable systems, shipping product-ready features, and designing infrastructure that doesn’t panic when real traffic hits.
+I like turning complex problems into reliable systems, shipping product-ready features, and designing infrastructure that doesn’t panic the moment real traffic arrives.
 
 <div align="center">
 
@@ -18,7 +18,7 @@ I’m a software engineer focused on building systems that are:
 - scalable
 - secure
 - practical
-- and a little less chaotic than production usually is
+- and less dramatic than production incidents
 
 I enjoy working across the stack — especially where backend architecture, distributed systems, and product engineering meet.
 
@@ -124,8 +124,16 @@ I enjoy working across the stack — especially where backend architecture, dist
 
 ## Connect
 
-- GitHub: [@bignyap](https://github.com/bignyap)
-- LinkedIn: [your-link]
-- Email: [your-email]
+<p align="left">
+  <a href="https://github.com/bignyap">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 > Building software that scales, solves real problems, and rarely needs a heroic rollback.
